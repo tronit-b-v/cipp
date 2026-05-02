@@ -1,4 +1,10 @@
 {
+  "networking": {
+    "allowedIpRanges": [
+      "89.117.119.15/32",
+      "171.22.176.214/32"
+    ]
+  },
   "routes": [
     {
       "route": "_next/static/*",
